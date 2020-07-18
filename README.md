@@ -8,5 +8,5 @@ Currently deployed with heroku at: https://thawing-forest-34851.herokuapp.com/
 ![Home Screenshot](https://github.com/charathmathew/Apex-Legends-Stats-Tracker/blob/master/SearchCapture.PNG?raw=true)
 
 <p align="center">
-![Profile Stats Screenshot](https://github.com/charathmathew/Apex-Legends-Stats-Tracker/blob/master/ProfileCapture.PNG?raw=true)
+<img src="https://github.com/charathmathew/Apex-Legends-Stats-Tracker/blob/master/ProfileCapture.PNG">
 </p>
